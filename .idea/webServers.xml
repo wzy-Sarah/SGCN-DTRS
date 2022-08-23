@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fc1a86b1-7c94-4399-a099-cca881a9ecb5" name="hcz@218.199.68.210:22">
+        <fileTransfer rootFolder="/mnt/hcz" accessType="SFTP" host="218.199.68.210" port="22" sshConfigId="a0e860dd-e461-45bf-98a2-25005bd77e9d" sshConfig="hcz@218.199.68.210:22 password" />
+      </webServer>
+    </option>
+  </component>
+</project>
