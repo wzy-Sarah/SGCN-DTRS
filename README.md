@@ -5,6 +5,8 @@ The authors of the paper are Ziyan Wang, Chengzhi Hong, Xuan Liu, Zhankun Xiong,
 
 ## environment
 conda create --name SGCN-DTRS python=3.6
+
+
 torch 1.9.0+cu102
 numpy
 pandas
