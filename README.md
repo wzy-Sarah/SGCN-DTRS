@@ -25,3 +25,15 @@ You can train and evaluat the method by going to src/ and run python main.py
 
 ## Training and evaluating the method in inductive task
 You can go to kk_ku/ and run python main.py
+
+## Cite
+@INPROCEEDINGS{9994907,
+  author={Wang, Ziyan and Hong, Chengzhi and Liu, Xuan and Xiong, Zhankun and Liu, Feng and Zhang, Wen},
+  booktitle={2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+  title={Predicting drug transcriptional response similarity using Signed Graph Convolutional Network}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={340-345},
+  keywords={Drugs;Training;Databases;Training data;Predictive models;Biology;Graph neural networks;drug transcriptional response;similarity;CMap score;signed graph neural network},
+  doi={10.1109/BIBM55620.2022.9994907}}
